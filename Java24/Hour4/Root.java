@@ -1,3 +1,5 @@
+//this newer version is self suffecient in one class
+
 import java.util.Scanner;
 public class Root {
 	public static void main(String[] args) {
